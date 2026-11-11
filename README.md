@@ -15,7 +15,7 @@ Can you save **everyone**?
   <img width="100%" src="https://github.com/user-attachments/assets/11489e8b-65df-4283-aadc-bfdbaeedeb14" />
 </p>
 
-Check out an [example playthrough](http://www.youtube.com/watch?v=IDijaB12l1o) of Villeon of YouTube!
+Check out an [example playthrough](http://www.youtube.com/watch?v=IDijaB12l1o) of Villeon on YouTube!
 
 ## Running the Game
 
